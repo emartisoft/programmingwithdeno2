@@ -1,0 +1,25 @@
+{
+  "build_id": "04e82b49106b89e6bbe774031012105af4aebee5",
+  "files": {
+    "main.js": [
+      "chunk-GI7LLYGM.js",
+      "chunk-JP5XG2OT.js"
+    ],
+    "deserializer.js": [],
+    "signals.js": [
+      "chunk-GI7LLYGM.js",
+      "chunk-GPMBDFQC.js",
+      "chunk-JP5XG2OT.js"
+    ],
+    "chunk-GI7LLYGM.js": [],
+    "island-card.js": [
+      "chunk-GPMBDFQC.js",
+      "chunk-JP5XG2OT.js"
+    ],
+    "chunk-GPMBDFQC.js": [
+      "chunk-JP5XG2OT.js"
+    ],
+    "chunk-JP5XG2OT.js": [],
+    "metafile.json": []
+  }
+}
