@@ -1,12 +1,5 @@
-**Programming with Deno 2**
 
-Modern and Secure
-
-JavaScript & TypeScript:
-
-A New Approach to Programming
-
-by *Murat Özdemir*
+![cover](https://github.com/emartisoft/programmingwithdeno2/blob/main/Programming-with-Deno-2.png?raw=true)
 
 This is the repository for **Programming with Deno 2**
 
