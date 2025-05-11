@@ -1,0 +1,1 @@
+Data is read from file 'input.txt'
