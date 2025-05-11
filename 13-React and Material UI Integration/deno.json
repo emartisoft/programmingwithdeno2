@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "dev-server": "cd server && deno run -A server.ts",
+    "dev-client": "cd client && deno task dev",
+    "dev": {
+      "dependencies": ["dev-server", "dev-client"]
+    }
+  }
+}
